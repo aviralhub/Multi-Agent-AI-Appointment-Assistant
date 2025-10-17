@@ -150,3 +150,19 @@ class StorageService:
         if not ok:
             raise RuntimeError("Failed to persist appointment")
         return appt
+
+
+# Optional SQLite-backed storage. When USE_SQLITE env var is set to a truthy value,
+# create an alias `StorageService` that wraps the SQLite implementation so existing
+# code continues to work without changes.
+try:
+    if os.getenv("USE_SQLITE", "0") in {"1", "true", "True"}:
+        from .sqlite_storage import SQLiteStorageService  # type: ignore
+
+        class StorageService(SQLiteStorageService):
+            """Drop-in subclass to preserve the name `StorageService` used across the project."""
+
+            pass
+except Exception:
+    # If sqlite module or file missing, keep the JSON-based StorageService above.
+    pass
