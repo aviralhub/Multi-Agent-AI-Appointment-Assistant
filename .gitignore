@@ -1,0 +1,13 @@
+__pycache__/
+*.log
+.DS_Store
+.env
+.venv/
+langraph/
+*.tmp
+*.pyc
+data/*.tmp
+data/.log
+data/*.xlsx
+.notebooks/
+*.ipynb_checkpoints/

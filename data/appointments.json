@@ -1,0 +1,110 @@
+[
+  {
+    "Id": "d1586c6f-852a-46fb-a92a-5b18b116bad5",
+    "Date": "2025-10-18",
+    "Day": "Saturday",
+    "Time": "09:00",
+    "Mode": "virtual",
+    "Notes": "",
+    "UserID": "c6f2ae50-efb9-47af-8f87-97748ba74ef6"
+  },
+  {
+    "Id": "8b65d269-351b-4637-a2ac-003595ad8e35",
+    "Date": "2025-10-17",
+    "Day": "Friday",
+    "Time": "09:00",
+    "Mode": "virtual",
+    "Notes": "",
+    "UserID": "4714f179-6d46-4446-8f28-020cdf9de957"
+  },
+  {
+    "Id": "db0f5fb7-2629-4787-82c0-5096135e7fad",
+    "Date": "2025-10-17",
+    "Day": "Friday",
+    "Time": "05:00",
+    "Mode": "virtual",
+    "Notes": "",
+    "UserID": "adba489f-084e-4cc2-8c67-f787c25e9d24"
+  },
+  {
+    "Id": "ccfe975d-7965-4190-9dd4-e4d52d798f26",
+    "Date": "2025-10-17",
+    "Day": "Friday",
+    "Time": "03:30",
+    "Mode": "virtual",
+    "Notes": "",
+    "UserID": "adba489f-084e-4cc2-8c67-f787c25e9d24"
+  },
+  {
+    "Id": "8f46ebb4-add1-4965-960f-3dfffe8a8b16",
+    "Date": "2025-10-18",
+    "Day": "Saturday",
+    "Time": "05:00",
+    "Mode": "virtual",
+    "Notes": "",
+    "UserID": "b39cbd7a-92e3-4dad-9885-d600fe19006f"
+  },
+  {
+    "Id": "79d6ad84-e732-43f2-b432-891c77e12e3a",
+    "Date": "2025-10-17",
+    "Day": "Friday",
+    "Time": "06:00",
+    "Mode": "virtual",
+    "Notes": "",
+    "UserID": "b39cbd7a-92e3-4dad-9885-d600fe19006f"
+  },
+  {
+    "Id": "f1be54a8-9fe0-4e49-abe7-dee9a58b75b5",
+    "Date": "2025-10-17",
+    "Day": "Friday",
+    "Time": "06:00",
+    "Mode": "virtual",
+    "Notes": "",
+    "UserID": "b39cbd7a-92e3-4dad-9885-d600fe19006f"
+  },
+  {
+    "Id": "b37c95e8-bc2b-4f35-9373-f51fb47c5f4d",
+    "Date": "2025-10-17",
+    "Day": "Friday",
+    "Time": "06:00",
+    "Mode": "telephonic",
+    "Notes": "",
+    "UserID": "b39cbd7a-92e3-4dad-9885-d600fe19006f"
+  },
+  {
+    "Id": "5847a1a5-3f06-445a-b6aa-6c981e9b237d",
+    "Date": "2025-10-18",
+    "Day": "Saturday",
+    "Time": "05:00",
+    "Mode": "virtual",
+    "Notes": "",
+    "UserID": "b39cbd7a-92e3-4dad-9885-d600fe19006f"
+  },
+  {
+    "Id": "7eb4969e-78d7-4ea0-a188-13098e048c57",
+    "Date": "2025-10-18",
+    "Day": "Saturday",
+    "Time": "05:00",
+    "Mode": "virtual",
+    "Notes": "",
+    "UserID": "5fba8663-f021-4b49-9f04-0625ff43c2e9"
+  },
+  {
+    "Id": "b842b548-1831-4730-8838-3325c63fb92d",
+    "Date": "2025-10-18",
+    "Day": "Saturday",
+    "Time": "05:00",
+    "Mode": "virtual",
+    "Notes": "",
+    "UserID": "70d2acb0-2d77-4d1d-be65-9518497033aa"
+  },
+  {
+    "Id": "cec227d7-2857-4e6d-8363-f85a311cbe42",
+    "Date": "2025-10-18",
+    "Day": "Saturday",
+    "Time": "05:00",
+    "Mode": "virtual",
+    "Notes": "",
+    "UserID": "70d2acb0-2d77-4d1d-be65-9518497033aa"
+  }
+]
